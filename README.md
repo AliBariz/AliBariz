@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AliBariz
+- 👋 Hi, I’m AliBariz
 - 👀 I’m interested in Web Development,Web Design
 - 🌱 I’m currently learning Next.js,React
 - 💞️ I’m looking to collaborate on Web design and Web Development projects 
