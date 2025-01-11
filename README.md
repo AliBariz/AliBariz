@@ -1,6 +1,6 @@
-- 👋 Hi, I’m AliBariz
-- 👀 I’m interested in Web Development,Web Design
-- 🌱 I’m currently learning Next.js,React
-- 💞️ I’m looking to collaborate on Web design and Web Development projects 
+- 👋 Hi, I’m AliBariz.
+- 👀 I’m interested in Web Development,Web Design, Software Development, UI/UX Design.
+- 🌱 I’m currently learning Next.js,React.
+- 💞️ I’m looking to collaborate on Web design and Web Development projects. 
 - 📫 How to reach me?, email @ alibariz2022@gmail.com
 - ⚡ Fun fact: I love to work on new projects.
